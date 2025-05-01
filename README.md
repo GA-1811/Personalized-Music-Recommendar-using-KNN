@@ -1,0 +1,2 @@
+This is a repository that gives you your personalized music recommender which uses KNN method of machine learning to give you the optimal and the best results possible. The dataset used here was not the most appropriate one thus we used spotify's live api that enabled us to code much better and faster eith no issues. 
+The used dataset can be as large as 300GB which is very large to handle and to install in the pc thus we used a bit smaller version of the datasets to helo us with not 100% correctness but with a good ammount of results.
